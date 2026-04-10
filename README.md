@@ -6,7 +6,7 @@ An AI-powered hospital inventory decision support system that monitors medicatio
 
 ## 🌐 Live Demo
 
-[Add Live Demo Link Here](https://your-live-demo-link.streamlit.app)
+[Add Live Demo Link Here](https://hospital-inventory-ai-agent-dyhkdfpiiicgbwnahemrb9.streamlit.app/)
 
 > Replace the link above with your deployed app URL once it is live.
 
