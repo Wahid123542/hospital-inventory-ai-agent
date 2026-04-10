@@ -1,0 +1,501 @@
+medication_name,department,current_stock,daily_usage,reorder_threshold,supplier_lead_time_days,month,flu_cases_index,expiration_date
+Metformin,General Ward,485,43,122,12,8,0.92,2024-05-12
+Amoxicillin,General Ward,264,23,104,12,8,0.73,2024-06-30
+Insulin,Cardiology,711,7,82,3,8,1.08,2024-11-19
+Heparin,General Ward,241,6,50,2,12,1.69,2024-10-09
+Insulin,Cardiology,906,48,78,12,11,1.52,2024-08-05
+Insulin,Oncology,832,20,80,13,7,1.19,2024-06-09
+Paracetamol,General Ward,868,41,164,6,9,0.55,2024-04-28
+Metformin,ER,291,18,38,11,5,0.66,2024-05-01
+Insulin,General Ward,477,11,37,4,1,1.41,2024-02-01
+Ceftriaxone,Oncology,615,10,135,5,6,0.52,2024-09-04
+Morphine,Cardiology,211,48,43,9,7,0.86,2024-08-07
+Insulin,ICU,774,44,111,6,8,0.75,2024-10-08
+Atorvastatin,Oncology,90,49,186,2,9,1.19,2024-06-07
+Paracetamol,Cardiology,697,48,92,12,3,0.99,2024-07-11
+Morphine,Oncology,338,39,152,6,10,0.75,2024-03-11
+Ceftriaxone,General Ward,184,32,101,13,2,1.28,2024-04-01
+Ceftriaxone,Oncology,854,28,128,13,8,0.69,2024-03-05
+Atorvastatin,ICU,788,5,130,4,1,1.78,2024-10-11
+Ibuprofen,Cardiology,920,18,56,10,10,0.52,2024-07-27
+Amoxicillin,ER,792,36,81,5,5,0.67,2024-09-23
+Amoxicillin,Oncology,220,19,58,5,7,0.7,2024-04-25
+Heparin,Oncology,627,32,199,10,5,1.11,2024-02-27
+Atorvastatin,Oncology,605,48,113,12,10,0.59,2024-09-17
+Azithromycin,General Ward,434,37,150,12,9,1.07,2024-09-19
+Amoxicillin,Oncology,408,7,184,10,5,0.98,2024-09-20
+Paracetamol,ICU,713,48,88,7,8,0.99,2024-05-22
+Azithromycin,ER,559,16,68,3,3,0.71,2024-05-22
+Ceftriaxone,ICU,748,21,142,3,2,1.53,2024-09-10
+Paracetamol,General Ward,434,37,176,3,5,0.84,2024-07-08
+Paracetamol,Cardiology,465,10,97,8,11,1.5,2024-10-11
+Ibuprofen,General Ward,329,42,98,5,2,1.71,2024-09-26
+Azithromycin,General Ward,658,20,153,12,6,0.99,2024-10-15
+Ceftriaxone,Cardiology,813,24,193,4,10,0.86,2024-06-25
+Atorvastatin,ER,913,24,81,10,1,1.52,2024-03-09
+Heparin,Oncology,921,22,158,12,12,1.79,2024-06-29
+Ceftriaxone,Cardiology,347,35,128,8,12,1.34,2024-05-21
+Morphine,General Ward,946,6,77,13,5,1.13,2024-02-08
+Morphine,ER,148,45,176,4,4,1.12,2024-05-29
+Amoxicillin,ER,969,37,145,12,1,1.33,2024-05-13
+Paracetamol,ER,303,24,141,10,3,1.18,2024-08-11
+Ibuprofen,ER,769,39,198,5,1,1.21,2024-11-02
+Paracetamol,Oncology,553,24,157,9,7,1.0,2024-06-06
+Azithromycin,ER,737,37,144,7,7,0.68,2024-07-06
+Morphine,Cardiology,279,42,138,4,6,1.13,2024-02-26
+Azithromycin,ICU,326,38,59,2,12,1.74,2024-12-12
+Atorvastatin,Cardiology,565,23,64,2,1,2.0,2024-07-06
+Atorvastatin,ER,95,33,146,7,3,1.02,2024-03-07
+Insulin,Cardiology,398,28,75,6,3,1.19,2024-05-25
+Ibuprofen,ER,977,25,190,4,2,1.65,2024-09-09
+Insulin,Cardiology,921,7,53,3,6,0.75,2024-06-05
+Ceftriaxone,ICU,539,31,159,11,1,1.88,2024-11-24
+Morphine,Cardiology,526,43,199,8,10,1.07,2024-02-12
+Ibuprofen,Cardiology,874,11,65,5,1,1.26,2024-06-20
+Heparin,Cardiology,932,16,172,13,2,1.28,2024-09-01
+Metformin,Cardiology,100,26,182,11,6,0.91,2024-11-30
+Metformin,Cardiology,887,46,44,7,11,1.3,2024-10-20
+Amoxicillin,Cardiology,669,48,34,8,4,1.09,2024-03-17
+Heparin,Cardiology,872,39,197,5,2,1.61,2024-07-06
+Metformin,Oncology,706,23,149,4,12,1.8,2024-09-15
+Ceftriaxone,ER,166,30,91,8,9,0.98,2024-06-07
+Amoxicillin,ER,800,5,63,7,9,0.96,2024-10-28
+Metformin,ER,753,43,98,7,7,0.53,2024-07-02
+Paracetamol,Oncology,484,20,115,10,12,1.24,2024-05-03
+Morphine,General Ward,253,9,173,11,10,0.84,2024-03-09
+Paracetamol,ER,338,40,130,8,10,0.93,2024-12-20
+Atorvastatin,General Ward,851,40,167,11,3,0.85,2024-10-13
+Paracetamol,ICU,565,9,45,9,7,1.16,2024-07-08
+Ceftriaxone,ICU,901,31,181,13,2,1.66,2024-03-03
+Morphine,General Ward,740,37,130,13,3,1.07,2024-07-16
+Azithromycin,Cardiology,92,14,73,13,2,1.23,2024-09-28
+Amoxicillin,Oncology,776,39,110,11,8,0.77,2024-04-29
+Insulin,General Ward,164,38,134,8,4,0.99,2024-05-23
+Paracetamol,Cardiology,124,49,186,9,4,0.79,2024-10-05
+Paracetamol,Cardiology,443,40,130,10,8,1.06,2024-07-25
+Heparin,Oncology,597,39,125,9,7,1.15,2024-03-07
+Azithromycin,ER,418,16,42,8,9,0.67,2024-11-11
+Ceftriaxone,ICU,930,21,91,5,9,0.72,2024-08-04
+Morphine,General Ward,226,23,129,13,9,1.09,2024-10-21
+Atorvastatin,Oncology,845,11,157,5,3,0.85,2024-06-22
+Paracetamol,Oncology,148,9,169,10,4,0.97,2024-03-23
+Insulin,General Ward,193,27,86,8,5,0.85,2024-09-09
+Metformin,General Ward,212,9,104,3,12,1.75,2024-10-09
+Metformin,ER,568,42,170,9,10,0.78,2024-11-08
+Ceftriaxone,Oncology,566,6,58,6,6,1.19,2024-12-16
+Paracetamol,ER,549,26,174,8,9,0.91,2024-11-17
+Paracetamol,ICU,301,10,188,4,12,1.65,2024-04-30
+Ceftriaxone,Cardiology,907,14,48,8,3,0.68,2024-09-28
+Heparin,General Ward,687,32,87,5,12,1.81,2024-01-31
+Azithromycin,ICU,397,7,142,10,8,0.87,2024-05-26
+Insulin,Oncology,107,10,73,6,6,1.15,2024-10-08
+Azithromycin,ER,725,41,176,5,9,0.87,2024-09-19
+Azithromycin,ER,192,18,188,2,5,0.99,2024-10-15
+Ceftriaxone,Cardiology,520,20,41,11,8,0.78,2024-07-04
+Amoxicillin,Cardiology,171,12,121,5,10,0.77,2024-12-11
+Paracetamol,Cardiology,781,32,130,10,4,1.19,2024-06-23
+Insulin,General Ward,978,13,186,4,6,1.16,2024-10-12
+Ceftriaxone,ER,864,9,182,3,10,1.15,2024-09-28
+Insulin,Cardiology,54,49,148,9,1,1.82,2024-06-24
+Amoxicillin,ICU,288,36,40,6,10,0.77,2024-12-10
+Amoxicillin,Oncology,738,31,190,3,9,0.79,2024-12-06
+Ibuprofen,Oncology,525,10,124,6,6,1.14,2024-02-22
+Ceftriaxone,Oncology,614,41,194,11,10,0.76,2024-04-24
+Azithromycin,ER,506,18,139,2,3,0.69,2024-10-16
+Amoxicillin,Oncology,930,5,61,3,12,1.41,2024-03-09
+Morphine,Oncology,299,30,191,7,6,1.08,2024-12-01
+Heparin,ICU,103,16,162,12,9,0.91,2024-10-11
+Metformin,ER,256,27,114,3,11,1.37,2024-08-09
+Morphine,General Ward,855,38,79,3,2,1.51,2024-12-03
+Morphine,ICU,530,42,108,13,7,0.87,2024-04-20
+Insulin,Cardiology,846,9,161,11,8,1.09,2024-10-29
+Ibuprofen,General Ward,118,24,63,7,5,0.74,2024-06-04
+Insulin,General Ward,92,47,144,10,7,0.59,2024-05-04
+Azithromycin,ICU,423,15,173,9,4,0.63,2024-08-01
+Heparin,Cardiology,244,29,125,4,11,1.73,2024-03-31
+Atorvastatin,General Ward,838,23,34,3,12,1.48,2024-02-21
+Morphine,Oncology,887,25,30,6,9,0.75,2024-03-16
+Insulin,ICU,994,38,107,11,11,1.23,2024-10-05
+Metformin,Cardiology,288,26,85,12,1,1.42,2024-10-13
+Metformin,ER,674,12,128,5,8,0.84,2024-02-27
+Insulin,ER,127,27,159,11,11,1.4,2024-02-06
+Metformin,ICU,672,7,180,12,12,1.29,2024-11-19
+Morphine,General Ward,932,39,44,10,7,0.76,2024-08-19
+Ibuprofen,ICU,322,43,115,11,12,1.39,2024-02-12
+Paracetamol,General Ward,74,24,97,11,3,0.95,2024-06-24
+Metformin,Cardiology,160,40,63,9,8,0.8,2024-04-22
+Metformin,Cardiology,474,46,130,7,4,0.95,2024-09-12
+Heparin,Cardiology,790,49,150,2,5,0.57,2024-08-15
+Paracetamol,Oncology,552,10,141,5,11,1.27,2024-05-04
+Ceftriaxone,ICU,872,28,166,8,3,0.87,2024-03-10
+Morphine,ER,597,41,181,7,2,1.66,2024-04-14
+Morphine,ER,896,8,163,7,1,1.59,2024-04-01
+Azithromycin,Oncology,896,6,165,11,3,1.09,2024-06-11
+Paracetamol,Oncology,459,10,147,5,3,0.64,2024-02-19
+Ibuprofen,General Ward,608,16,30,11,6,0.91,2024-06-17
+Morphine,ICU,894,40,32,2,6,0.74,2024-02-09
+Metformin,Oncology,968,9,167,13,2,1.46,2024-06-08
+Paracetamol,Oncology,370,24,92,6,9,1.03,2024-03-08
+Ibuprofen,Oncology,655,39,124,2,5,1.08,2024-09-22
+Insulin,Cardiology,934,18,149,12,9,0.64,2024-03-05
+Insulin,ICU,345,5,93,7,12,1.87,2024-12-23
+Metformin,Cardiology,922,15,43,13,3,0.61,2024-02-04
+Heparin,ER,428,23,107,11,4,0.72,2024-03-12
+Heparin,Oncology,451,29,69,9,7,1.0,2024-11-13
+Paracetamol,General Ward,914,42,52,2,9,0.75,2024-12-04
+Amoxicillin,General Ward,153,44,68,4,6,1.16,2024-07-27
+Heparin,Cardiology,603,12,44,2,4,1.02,2024-07-05
+Amoxicillin,ER,490,42,126,6,11,1.8,2024-10-10
+Atorvastatin,ER,647,8,95,11,5,1.11,2024-05-27
+Ibuprofen,ICU,958,42,188,5,8,0.92,2024-02-14
+Metformin,General Ward,697,33,34,5,12,1.82,2024-05-04
+Paracetamol,General Ward,341,40,55,12,11,1.48,2024-02-10
+Atorvastatin,Oncology,921,14,67,7,8,0.8,2024-11-27
+Amoxicillin,ICU,445,47,170,9,2,1.69,2024-05-20
+Amoxicillin,General Ward,877,44,129,5,5,1.15,2024-12-23
+Amoxicillin,ER,653,46,60,11,9,0.8,2024-02-28
+Paracetamol,General Ward,345,18,70,7,11,1.56,2024-11-27
+Atorvastatin,ICU,454,41,119,5,6,1.09,2024-01-31
+Insulin,General Ward,960,44,178,10,5,0.73,2024-12-08
+Heparin,Cardiology,986,30,64,5,9,1.1,2024-11-19
+Insulin,ICU,952,6,191,12,1,1.67,2024-10-07
+Paracetamol,ER,74,28,117,2,1,1.82,2024-06-28
+Ceftriaxone,ICU,205,30,143,6,1,1.34,2024-04-23
+Heparin,Oncology,738,45,177,7,6,0.56,2024-08-06
+Azithromycin,Oncology,610,44,100,2,7,0.8,2024-08-28
+Paracetamol,Cardiology,719,36,58,2,8,0.91,2024-10-13
+Heparin,Oncology,420,18,142,3,6,1.04,2024-06-10
+Azithromycin,Oncology,313,5,186,8,7,1.03,2024-10-22
+Morphine,Cardiology,927,14,191,13,1,1.22,2024-11-13
+Atorvastatin,Cardiology,398,11,37,2,9,0.66,2024-10-11
+Ibuprofen,ICU,103,12,96,4,1,1.65,2024-10-20
+Paracetamol,ER,852,38,125,9,8,1.06,2024-07-13
+Morphine,Oncology,959,25,84,3,7,0.94,2024-07-09
+Amoxicillin,General Ward,134,27,176,4,4,0.95,2024-04-21
+Morphine,ICU,946,6,76,6,4,0.74,2024-08-12
+Insulin,Cardiology,168,27,169,5,5,0.74,2024-10-12
+Insulin,ER,954,34,82,13,3,1.16,2024-11-05
+Heparin,Oncology,763,21,187,9,11,1.92,2024-06-06
+Ceftriaxone,Oncology,770,36,143,4,1,1.41,2024-03-10
+Heparin,General Ward,286,6,54,8,9,0.6,2024-09-21
+Paracetamol,Cardiology,715,8,58,3,7,0.98,2024-12-21
+Ibuprofen,General Ward,177,22,114,11,4,0.85,2024-03-04
+Heparin,Cardiology,726,21,182,7,10,1.0,2024-05-26
+Morphine,ER,391,46,56,10,6,1.01,2024-05-07
+Ibuprofen,Oncology,798,16,82,8,10,1.14,2024-08-07
+Azithromycin,Oncology,871,6,136,2,3,0.56,2024-11-07
+Amoxicillin,ICU,198,33,40,9,11,1.48,2024-05-22
+Heparin,Oncology,793,43,83,3,7,0.96,2024-10-02
+Morphine,Cardiology,118,26,85,2,10,0.52,2024-06-26
+Insulin,Cardiology,788,23,110,12,11,1.47,2024-07-02
+Ceftriaxone,Cardiology,550,6,102,10,8,1.01,2024-09-03
+Azithromycin,ER,665,47,71,10,7,0.55,2024-09-15
+Paracetamol,Oncology,221,48,131,3,12,1.49,2024-03-14
+Metformin,Oncology,379,21,86,8,1,1.35,2024-12-13
+Ceftriaxone,Oncology,265,20,112,9,5,1.03,2024-08-15
+Azithromycin,Cardiology,586,12,118,13,11,1.99,2024-02-25
+Insulin,Oncology,827,36,45,8,1,1.34,2024-04-25
+Ibuprofen,ICU,831,11,108,6,7,0.71,2024-07-24
+Heparin,ICU,547,12,88,8,2,1.8,2024-05-12
+Heparin,General Ward,575,21,188,9,3,0.89,2024-11-26
+Heparin,Cardiology,180,38,66,12,8,0.81,2024-03-09
+Paracetamol,General Ward,937,19,33,7,9,1.02,2024-07-09
+Metformin,ER,542,20,199,13,2,1.22,2024-07-18
+Heparin,Oncology,463,38,42,3,3,0.55,2024-11-27
+Insulin,Oncology,526,33,91,6,12,1.7,2024-09-22
+Ibuprofen,General Ward,975,14,182,8,4,1.02,2024-07-25
+Amoxicillin,General Ward,478,7,171,9,2,1.44,2024-11-18
+Insulin,General Ward,481,29,102,2,9,0.98,2024-06-18
+Metformin,Oncology,110,41,153,7,7,1.12,2024-11-27
+Metformin,Oncology,60,28,91,3,9,1.02,2024-10-16
+Morphine,Oncology,709,12,122,7,5,1.08,2024-12-25
+Insulin,Cardiology,275,47,86,11,9,0.63,2024-10-15
+Atorvastatin,ER,566,10,34,7,7,1.12,2024-05-08
+Amoxicillin,ICU,939,24,90,12,10,0.86,2024-04-01
+Morphine,Oncology,265,21,32,4,6,0.94,2024-04-28
+Insulin,ICU,629,13,171,6,2,1.57,2024-12-18
+Ceftriaxone,General Ward,590,32,166,4,9,1.1,2024-07-18
+Morphine,ER,512,13,69,10,5,1.01,2024-09-12
+Morphine,Oncology,173,28,67,9,11,1.78,2024-04-29
+Ibuprofen,ER,503,22,66,13,12,1.26,2024-04-20
+Heparin,ICU,350,44,91,4,10,0.9,2024-03-10
+Azithromycin,ICU,89,38,120,2,6,0.86,2024-07-16
+Heparin,Oncology,402,32,88,12,9,0.73,2024-03-15
+Metformin,General Ward,742,29,199,5,11,1.8,2024-02-06
+Morphine,ICU,796,9,74,11,9,0.52,2024-02-22
+Metformin,ER,443,46,189,12,5,1.02,2024-04-21
+Paracetamol,ER,307,40,106,13,7,0.64,2024-02-12
+Atorvastatin,ER,162,31,46,9,2,1.71,2024-07-11
+Azithromycin,ICU,516,10,187,8,10,0.8,2024-12-14
+Metformin,Cardiology,621,32,108,6,6,1.16,2024-09-28
+Morphine,ICU,780,8,46,13,6,1.0,2024-08-10
+Ibuprofen,General Ward,523,26,149,12,2,1.9,2024-08-09
+Insulin,General Ward,765,33,193,12,3,0.92,2024-02-06
+Paracetamol,General Ward,956,33,62,7,3,0.68,2024-02-25
+Amoxicillin,ICU,479,38,58,5,1,1.28,2024-03-09
+Morphine,Oncology,936,19,58,12,4,1.09,2024-07-23
+Morphine,General Ward,133,18,51,12,11,1.89,2024-09-22
+Paracetamol,Oncology,70,32,76,6,11,1.97,2024-06-25
+Heparin,Cardiology,436,9,30,11,12,1.78,2024-07-10
+Azithromycin,General Ward,881,39,54,9,12,1.65,2024-08-25
+Amoxicillin,ICU,633,31,89,10,1,1.27,2024-02-07
+Paracetamol,Oncology,76,19,79,5,7,0.94,2024-07-29
+Heparin,Cardiology,877,28,151,4,4,1.06,2024-07-01
+Paracetamol,ER,255,34,46,13,4,0.8,2024-07-14
+Heparin,ER,550,26,146,3,8,0.8,2024-04-03
+Heparin,ICU,770,17,101,6,2,1.74,2024-05-04
+Heparin,General Ward,593,42,40,10,1,1.96,2024-10-23
+Insulin,Oncology,740,26,117,10,1,1.28,2024-03-16
+Azithromycin,ICU,512,36,109,7,6,0.65,2024-07-09
+Azithromycin,Oncology,985,14,189,3,12,1.26,2024-09-11
+Insulin,ER,794,37,187,2,4,0.75,2024-05-12
+Ibuprofen,ICU,215,6,132,11,10,1.06,2024-05-15
+Atorvastatin,ICU,354,48,133,12,3,1.13,2024-02-08
+Morphine,ER,122,10,132,10,2,1.95,2024-12-23
+Morphine,General Ward,367,32,113,12,7,0.96,2024-08-25
+Heparin,ER,439,8,87,7,10,0.84,2024-06-05
+Ibuprofen,ER,749,45,135,12,2,1.25,2024-04-26
+Azithromycin,ICU,958,16,54,4,10,0.73,2024-09-24
+Paracetamol,ICU,734,40,165,8,5,0.96,2024-12-02
+Insulin,ICU,643,48,175,4,6,0.73,2024-12-07
+Paracetamol,Cardiology,108,45,160,13,10,0.78,2024-05-02
+Amoxicillin,Oncology,402,19,164,13,1,1.89,2024-07-07
+Amoxicillin,Oncology,453,28,66,5,12,1.5,2024-02-19
+Ceftriaxone,Cardiology,611,28,125,10,4,0.52,2024-09-14
+Insulin,ICU,384,6,191,5,6,0.96,2024-09-29
+Morphine,Cardiology,692,16,47,9,5,1.01,2024-11-07
+Amoxicillin,General Ward,149,12,116,11,12,1.5,2024-02-01
+Ceftriaxone,Cardiology,886,41,195,10,6,1.11,2024-05-20
+Paracetamol,Oncology,553,18,113,3,7,0.61,2024-02-27
+Morphine,ICU,212,6,34,2,8,0.92,2024-07-12
+Azithromycin,General Ward,968,49,76,12,10,0.55,2024-10-26
+Azithromycin,ER,654,20,39,13,9,0.8,2024-11-01
+Morphine,Cardiology,732,12,30,10,6,0.62,2024-05-30
+Morphine,ICU,982,47,194,2,1,1.76,2024-12-07
+Paracetamol,ER,416,32,163,13,11,1.29,2024-12-29
+Heparin,ER,560,6,66,5,10,0.53,2024-05-28
+Ibuprofen,ER,247,39,88,6,1,1.61,2024-08-23
+Morphine,Cardiology,539,16,49,6,2,1.97,2024-11-24
+Ceftriaxone,Oncology,266,38,79,10,7,0.82,2024-07-26
+Metformin,Cardiology,477,27,67,5,7,0.52,2024-11-26
+Metformin,ER,995,20,153,8,8,1.18,2024-06-07
+Insulin,ICU,718,12,125,7,5,1.17,2024-07-23
+Atorvastatin,ICU,242,38,84,8,10,0.76,2024-05-23
+Ceftriaxone,ER,194,22,55,9,8,1.04,2024-12-23
+Ceftriaxone,General Ward,863,29,62,2,3,1.16,2024-06-20
+Amoxicillin,Cardiology,410,9,119,13,2,2.0,2024-04-02
+Atorvastatin,ICU,210,13,198,10,9,0.56,2024-07-07
+Ibuprofen,ICU,373,45,127,7,4,0.97,2024-04-21
+Ibuprofen,ICU,328,17,112,12,1,1.3,2024-12-05
+Atorvastatin,ICU,650,11,172,2,12,1.69,2024-06-21
+Ceftriaxone,ER,964,25,89,10,1,1.39,2024-11-16
+Paracetamol,Cardiology,151,48,40,4,8,0.97,2024-12-25
+Insulin,General Ward,991,6,38,4,5,1.1,2024-11-29
+Morphine,General Ward,503,6,185,6,10,0.58,2024-06-11
+Paracetamol,Cardiology,353,38,66,13,4,0.93,2024-12-21
+Amoxicillin,Oncology,940,48,50,8,11,1.21,2024-11-28
+Amoxicillin,ER,842,19,65,12,3,0.54,2024-11-02
+Ceftriaxone,General Ward,519,17,48,3,4,0.68,2024-03-22
+Azithromycin,Cardiology,718,31,185,4,8,0.72,2024-07-06
+Ceftriaxone,ICU,51,22,106,5,10,0.59,2024-10-19
+Paracetamol,General Ward,157,35,103,8,7,0.71,2024-09-27
+Atorvastatin,Oncology,494,46,71,9,4,0.8,2024-10-19
+Ibuprofen,ICU,221,5,149,11,11,1.2,2024-05-27
+Amoxicillin,Cardiology,775,25,166,11,9,0.95,2024-05-30
+Atorvastatin,ER,633,46,181,2,10,0.68,2024-04-07
+Metformin,Oncology,580,28,129,13,7,0.97,2024-06-24
+Paracetamol,Cardiology,725,23,98,2,3,1.11,2024-07-09
+Morphine,Oncology,711,25,66,4,12,1.36,2024-02-10
+Metformin,Oncology,639,14,106,10,9,1.19,2024-11-16
+Insulin,Oncology,646,11,175,4,10,0.8,2024-07-15
+Heparin,Cardiology,802,45,53,13,3,0.92,2024-05-11
+Morphine,ER,337,46,196,5,8,0.95,2024-07-12
+Ceftriaxone,General Ward,122,7,165,2,11,1.47,2024-08-13
+Ceftriaxone,Oncology,610,17,89,3,12,1.84,2024-02-26
+Paracetamol,Cardiology,198,36,37,7,8,0.96,2024-11-25
+Atorvastatin,General Ward,391,7,99,3,7,0.76,2024-05-11
+Amoxicillin,ICU,852,21,127,8,4,0.54,2024-11-25
+Ceftriaxone,Cardiology,502,40,106,10,7,0.88,2024-07-06
+Azithromycin,Cardiology,61,20,174,13,8,1.06,2024-06-22
+Insulin,Cardiology,286,34,52,13,3,0.61,2024-02-04
+Ceftriaxone,General Ward,921,24,137,2,9,0.97,2024-04-23
+Amoxicillin,Cardiology,455,10,61,2,5,1.08,2024-03-08
+Amoxicillin,Cardiology,558,38,171,5,1,1.38,2024-09-23
+Atorvastatin,Cardiology,410,6,114,3,11,1.39,2024-12-26
+Morphine,Oncology,229,7,180,11,4,1.11,2024-10-18
+Paracetamol,General Ward,455,39,172,7,12,1.88,2024-02-11
+Azithromycin,General Ward,727,46,111,4,8,0.87,2024-06-12
+Atorvastatin,ER,897,7,36,5,9,0.73,2024-07-11
+Metformin,Cardiology,908,6,159,4,2,1.97,2024-10-12
+Metformin,General Ward,586,14,54,7,1,1.94,2024-10-26
+Ceftriaxone,ICU,159,5,109,7,4,0.85,2024-02-24
+Morphine,General Ward,166,17,165,6,2,1.6,2024-04-18
+Heparin,ICU,222,8,41,13,4,0.81,2024-12-11
+Insulin,Cardiology,721,10,122,12,2,1.72,2024-11-12
+Atorvastatin,ICU,516,9,191,11,9,0.54,2024-10-23
+Insulin,General Ward,105,35,112,10,3,0.55,2024-07-04
+Paracetamol,Oncology,129,11,173,13,1,1.61,2024-05-12
+Paracetamol,Oncology,834,44,130,8,12,1.45,2024-12-03
+Heparin,General Ward,173,40,195,8,2,1.3,2024-05-25
+Ibuprofen,ICU,568,39,184,13,6,1.08,2024-09-15
+Heparin,Oncology,694,26,159,12,5,0.51,2024-04-18
+Metformin,ICU,699,25,87,9,7,0.93,2024-02-12
+Insulin,Cardiology,291,25,111,6,4,0.76,2024-08-05
+Amoxicillin,ICU,752,15,178,5,7,0.6,2024-08-13
+Azithromycin,Cardiology,613,38,141,13,2,1.58,2024-09-19
+Heparin,General Ward,485,33,186,7,10,1.05,2024-05-22
+Morphine,ICU,241,45,46,9,9,1.16,2024-06-08
+Ceftriaxone,ER,146,33,39,3,10,0.68,2024-09-18
+Metformin,Oncology,333,25,63,9,11,1.56,2024-04-18
+Metformin,Oncology,904,21,117,4,5,1.02,2024-04-26
+Morphine,Cardiology,57,41,106,9,9,1.02,2024-05-18
+Amoxicillin,General Ward,532,28,181,2,5,0.86,2024-09-18
+Insulin,Oncology,415,35,168,5,3,0.96,2024-02-27
+Metformin,Cardiology,491,47,34,6,6,1.04,2024-12-15
+Ceftriaxone,Oncology,599,14,140,13,1,1.44,2024-10-12
+Morphine,ER,970,44,102,3,2,1.21,2024-11-17
+Ceftriaxone,Oncology,639,8,134,10,9,0.87,2024-08-07
+Metformin,General Ward,198,14,193,13,11,1.98,2024-10-25
+Morphine,ICU,400,36,173,13,2,1.3,2024-10-27
+Amoxicillin,General Ward,985,21,175,8,9,0.76,2024-12-10
+Ibuprofen,Oncology,173,18,143,7,4,0.67,2024-08-30
+Ceftriaxone,General Ward,337,48,142,9,5,0.7,2024-03-02
+Ceftriaxone,Oncology,680,34,68,2,12,1.94,2024-02-17
+Insulin,Cardiology,446,25,178,9,8,0.89,2024-06-29
+Ceftriaxone,ER,785,48,115,7,11,1.42,2024-11-10
+Morphine,General Ward,515,17,31,6,4,1.07,2024-05-04
+Morphine,ICU,456,19,117,13,6,0.88,2024-08-06
+Atorvastatin,Oncology,745,37,32,7,3,0.61,2024-02-29
+Metformin,ER,157,43,140,10,5,0.61,2024-08-03
+Ibuprofen,General Ward,633,20,158,13,5,1.12,2024-05-13
+Heparin,Oncology,273,39,93,11,2,1.36,2024-02-09
+Ceftriaxone,Oncology,945,25,75,8,11,1.35,2024-05-21
+Morphine,ICU,442,17,193,7,10,1.03,2024-03-24
+Metformin,ICU,258,16,43,10,2,1.81,2024-02-19
+Ceftriaxone,ER,961,15,99,9,3,1.2,2024-06-10
+Ibuprofen,Oncology,69,8,167,9,6,0.92,2024-11-18
+Heparin,Oncology,518,42,83,9,7,0.5,2024-03-08
+Atorvastatin,Cardiology,237,8,86,5,1,1.67,2024-02-03
+Amoxicillin,Cardiology,575,33,32,9,5,0.91,2024-03-25
+Ibuprofen,Oncology,937,8,53,3,2,1.68,2024-08-05
+Paracetamol,ICU,866,23,92,4,6,0.99,2024-04-15
+Azithromycin,General Ward,363,34,146,5,3,0.81,2024-09-14
+Ibuprofen,ER,232,34,142,8,1,1.27,2024-05-25
+Insulin,Cardiology,812,32,76,12,9,1.15,2024-11-26
+Paracetamol,Cardiology,450,37,33,5,11,1.75,2024-03-17
+Paracetamol,ER,173,18,104,8,9,1.17,2024-12-20
+Metformin,General Ward,99,14,32,12,1,1.67,2024-05-27
+Metformin,General Ward,759,49,110,12,3,1.16,2024-03-05
+Metformin,ICU,630,30,122,6,4,1.06,2024-04-13
+Atorvastatin,ICU,405,9,99,11,4,0.53,2024-11-20
+Ceftriaxone,Oncology,690,39,53,10,4,1.04,2024-07-30
+Atorvastatin,ICU,237,48,86,5,8,0.83,2024-08-30
+Azithromycin,ICU,457,34,137,11,6,0.68,2024-07-11
+Insulin,ER,319,32,149,11,6,0.8,2024-09-03
+Ibuprofen,ICU,631,17,73,10,4,0.52,2024-04-23
+Insulin,Oncology,299,22,136,10,5,0.87,2024-02-06
+Amoxicillin,ICU,688,10,172,3,8,0.88,2024-06-21
+Ibuprofen,Oncology,966,11,199,11,12,1.83,2024-06-20
+Heparin,ICU,363,41,50,3,5,0.96,2024-09-04
+Ceftriaxone,ER,354,41,176,4,9,1.16,2024-07-09
+Heparin,Oncology,944,8,100,7,7,0.88,2024-06-30
+Ibuprofen,ICU,77,38,72,10,7,1.0,2024-02-16
+Amoxicillin,ICU,543,38,127,2,10,0.62,2024-02-01
+Paracetamol,Cardiology,161,26,86,3,10,0.82,2024-06-03
+Amoxicillin,ER,135,43,105,9,8,0.58,2024-03-29
+Amoxicillin,Cardiology,660,14,92,2,7,1.11,2024-07-02
+Paracetamol,Oncology,927,8,145,7,8,0.59,2024-04-18
+Morphine,Oncology,677,26,121,12,9,0.89,2024-11-09
+Azithromycin,ICU,930,30,95,10,8,0.82,2024-03-14
+Morphine,ER,603,37,35,8,4,0.82,2024-07-26
+Insulin,General Ward,964,47,80,12,8,0.63,2024-02-07
+Morphine,ER,557,28,70,5,5,0.94,2024-03-25
+Heparin,Oncology,608,13,172,9,2,1.33,2024-10-24
+Amoxicillin,Oncology,824,6,109,4,3,1.13,2024-03-10
+Azithromycin,ICU,978,42,158,8,8,1.13,2024-07-24
+Ceftriaxone,ICU,662,47,33,7,6,1.1,2024-06-15
+Morphine,ER,956,16,75,8,1,1.53,2024-02-20
+Amoxicillin,General Ward,318,34,191,5,12,1.91,2024-09-09
+Amoxicillin,General Ward,886,31,54,4,1,1.22,2024-07-02
+Insulin,ICU,276,9,38,5,6,0.88,2024-08-28
+Ceftriaxone,General Ward,426,48,168,3,12,1.57,2024-08-30
+Ibuprofen,Cardiology,275,28,160,13,12,1.62,2024-11-02
+Ibuprofen,ICU,809,32,190,6,3,0.6,2024-03-11
+Azithromycin,ER,363,22,104,10,7,0.93,2024-06-28
+Ceftriaxone,ICU,886,21,137,12,11,1.71,2024-08-29
+Heparin,ER,979,20,95,4,8,0.5,2024-03-17
+Ibuprofen,Oncology,503,43,177,13,1,1.87,2024-06-06
+Azithromycin,Oncology,565,7,182,7,5,0.52,2024-05-26
+Metformin,ER,509,18,174,8,9,1.05,2024-12-28
+Morphine,ICU,259,19,144,2,6,0.97,2024-04-30
+Morphine,General Ward,937,38,75,7,4,0.77,2024-08-07
+Heparin,Cardiology,708,39,59,12,4,0.51,2024-10-26
+Atorvastatin,Cardiology,663,30,179,10,3,1.18,2024-10-31
+Atorvastatin,Oncology,333,13,100,10,11,1.7,2024-05-30
+Amoxicillin,ICU,992,23,171,9,6,0.58,2024-07-12
+Amoxicillin,ICU,514,44,59,10,1,1.58,2024-04-28
+Amoxicillin,ICU,252,18,82,4,9,0.71,2024-09-08
+Heparin,Cardiology,757,45,97,13,8,1.11,2024-06-03
+Paracetamol,Cardiology,986,26,149,8,1,1.43,2024-10-24
+Heparin,ER,828,39,93,3,5,0.87,2024-12-20
+Morphine,ICU,918,24,190,6,9,1.14,2024-12-19
+Atorvastatin,Oncology,531,39,94,9,7,0.8,2024-12-27
+Heparin,General Ward,223,16,76,10,3,1.12,2024-05-02
+Heparin,ICU,281,26,50,4,6,0.91,2024-07-05
+Insulin,ICU,872,8,121,13,4,0.77,2024-04-06
+Atorvastatin,Cardiology,541,26,191,12,7,1.19,2024-04-11
+Heparin,General Ward,983,27,35,7,9,0.5,2024-03-31
+Ceftriaxone,ICU,311,16,56,9,3,0.69,2024-05-02
+Metformin,ICU,802,49,128,9,3,0.81,2024-12-07
+Ceftriaxone,Cardiology,750,17,78,2,8,0.53,2024-04-29
+Metformin,Cardiology,390,43,91,11,11,1.24,2024-09-19
+Morphine,General Ward,393,13,66,2,9,1.07,2024-11-02
+Ceftriaxone,Oncology,232,43,70,8,11,1.24,2024-12-28
+Metformin,Cardiology,50,49,197,13,3,0.79,2024-05-18
+Metformin,Oncology,494,16,190,11,7,1.17,2024-02-07
+Ceftriaxone,ICU,908,29,116,8,1,1.68,2024-06-24
+Ceftriaxone,Oncology,373,6,190,5,2,1.27,2024-09-25
+Morphine,Oncology,985,32,113,2,1,1.52,2024-09-29
+Amoxicillin,General Ward,90,19,196,3,9,0.95,2024-12-02
+Amoxicillin,General Ward,315,15,171,3,3,1.14,2024-03-09
+Paracetamol,Oncology,820,32,113,7,11,1.79,2024-05-02
+Azithromycin,ER,436,42,173,9,2,1.21,2024-10-24
+Paracetamol,ICU,284,39,94,8,10,1.14,2024-04-01
+Metformin,ICU,970,35,52,9,9,0.55,2024-11-02
+Ibuprofen,Cardiology,707,47,193,4,7,0.88,2024-05-31
+Insulin,Oncology,237,34,137,3,3,0.82,2024-07-20
+Ibuprofen,Cardiology,90,19,92,8,8,1.12,2024-07-08
+Atorvastatin,ICU,429,40,190,9,7,0.86,2024-07-04
+Morphine,General Ward,56,41,194,9,1,1.48,2024-06-26
+Paracetamol,ER,718,23,175,13,3,0.74,2024-06-04
+Amoxicillin,ICU,866,15,142,7,5,0.87,2024-07-24
+Heparin,Cardiology,535,16,94,5,1,1.31,2024-12-20
+Insulin,Cardiology,425,34,117,12,3,1.17,2024-10-16
+Morphine,ER,204,30,136,12,10,0.78,2024-10-18
+Heparin,ICU,294,19,59,11,5,1.08,2024-03-07
+Atorvastatin,General Ward,173,46,130,4,7,0.81,2024-10-30
+Insulin,General Ward,418,13,58,12,4,0.52,2024-09-10
+Morphine,ICU,117,26,98,6,9,0.89,2024-07-10
+Amoxicillin,General Ward,903,49,82,12,7,0.81,2024-03-12
+Morphine,Oncology,465,38,138,4,10,0.54,2024-02-20
+Amoxicillin,Oncology,188,48,132,5,3,0.62,2024-11-05
+Insulin,Oncology,958,39,140,3,11,1.37,2024-10-29
+Morphine,Cardiology,813,39,111,9,6,0.9,2024-10-06
+Heparin,ICU,214,23,114,9,12,1.88,2024-05-10
+Atorvastatin,General Ward,935,40,176,12,5,0.92,2024-12-05
+Ceftriaxone,ER,608,49,169,7,5,1.02,2024-02-04
+Insulin,ER,233,21,49,10,10,1.16,2024-02-16
+Azithromycin,ER,715,23,77,13,12,1.8,2024-04-09
+Ibuprofen,Oncology,151,40,104,2,8,0.81,2024-08-20
+Amoxicillin,General Ward,740,21,111,13,3,0.92,2024-09-25
+Ibuprofen,ICU,952,8,138,4,9,0.54,2024-09-11
+Atorvastatin,General Ward,889,36,176,7,3,0.81,2024-02-12
+Amoxicillin,ICU,769,35,143,7,6,1.01,2024-03-24
+Amoxicillin,Cardiology,859,14,93,6,12,1.84,2024-06-30
+Ibuprofen,Oncology,745,39,59,10,3,1.2,2024-10-20
+Ceftriaxone,Cardiology,162,30,100,8,3,1.02,2024-02-24
+Metformin,General Ward,50,41,172,6,8,1.16,2024-08-05
+Paracetamol,ER,176,13,30,5,3,0.93,2024-05-13
+Amoxicillin,ICU,314,27,63,5,6,0.71,2024-04-11
+Atorvastatin,General Ward,959,7,63,4,11,1.9,2024-04-05
+Amoxicillin,Cardiology,706,44,148,3,10,0.67,2024-08-05
